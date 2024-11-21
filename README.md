@@ -13,24 +13,7 @@ A simple weather forecast application built using Python and PyQt5. This app pro
 ## Screenshot
 ![Screenshot](![image](https://github.com/user-attachments/assets/a7653cab-7575-450f-bdf4-aecb89673754)
 )  
-
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sunnydubey12/Weather-App.git
-2.Navigate to the project directory:
-   ``bash
-     cd Weather-App
-
-3.Install the required dependencies:
-  ``bash
-     pip install -r requirements.txt
-4.Run the application:
-``bash
-   python weather_app.py
- 
- ##How to Use
+##How to Use
 Enter the city name in the input box.
 Click on the "Get Weather" button.
 View the weather details, including temperature, weather description, UV index, and more.
@@ -41,3 +24,22 @@ Future Improvements
 Add a feature to save favorite cities.
 Include a 7-day weather forecast.
 Improve error handling and user feedback
+
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sunnydubey12/Weather-App.git
+2. Navigate to the project directory:
+   ```bash
+     cd Weather-App
+
+3. Install the required dependencies:
+  ```bash
+     pip install -r requirements.txt
+
+4. Run the application:
+```bash
+   python weather_app.py
+ 
+ 
